@@ -1,0 +1,9 @@
+.h1-font{
+        font-family: 'Tangerine', serif;
+        font-size: 120px;
+        text-shadow: 4px 4px 4px #aaa;
+}
+.logo-img{
+    border-right-style:dashed;
+    border-radius: 50%;
+}
